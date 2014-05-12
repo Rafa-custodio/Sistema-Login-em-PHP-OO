@@ -31,7 +31,7 @@
 		<title>Titulo</title>
 		<meta name="author" content="Paulo C Teixeira">
 		<meta name="description" content="">
-		<link rel="stylesheet" type="text/css" href="css/main.css">
+		<link rel="stylesheet" type="text/css" href="css/main.css"> 
 	</head>
 	<body>
 
