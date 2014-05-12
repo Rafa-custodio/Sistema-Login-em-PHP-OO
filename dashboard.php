@@ -8,7 +8,7 @@
 		if($_GET['logout'] == 'confirmar'):
 			Login::deslogar();
 		endif;
-	endif;
+	endif; 
 
 	if(isset($_SESSION['logado'])):
 
