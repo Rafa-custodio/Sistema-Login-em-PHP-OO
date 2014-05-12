@@ -16,7 +16,7 @@
 <html lang="pt-br">
 	<head>
 		<meta charset="utf-8"/>
-		<title>Dashboard</title>
+		<title>Dashboard</title> 
 		<meta name="author" content="Paulo C Teixeira">
 		<meta name="description" content="">
 		<link rel="stylesheet" type="text/css" href="css/main.css">
