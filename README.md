@@ -9,6 +9,8 @@ Editar linhas 5, 6 e 15 do arquivo 'Conexão.class.php' com as informações do 
 
 ### Banco de dados
 
+SQL para criar as tabelas necessarias:
+
   sql
   
 
