@@ -7,13 +7,7 @@ Sistema de login em PHP Orientado a Objetos simples. Com apenas duas classes, um
 
 Editar linhas 5, 6 e 15 do arquivo 'Conexão.class.php' com as informações do banco de dados.
 
-### Banco de dados
-
-SQL para criar as tabelas necessarias:
-
-  sql
-  
-
 ##Informações de login
+
 Usuario: admin<br>
 Senha: 123456
